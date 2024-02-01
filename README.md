@@ -6,9 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuragchhetri) 
 
 ## Projects:
-Weather App: https://weather-hub-ivory.vercel.app/
 [Weather App](https://weather-hub-ivory.vercel.app/)
-Weather App : (https://weather-hub-ivory.vercel.app/)
 
 
 # 💻 Tech Stack:
