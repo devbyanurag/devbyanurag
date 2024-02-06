@@ -6,8 +6,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuragchhetri) 
 
 ## Projects:
-#### [Weather App](https://weather-hub-ivory.vercel.app/) 
+##### Weather App
   -Tech Used: Nextjs, Typescript, SCSS
+  -Link: [Weather App](https://weather-hub-ivory.vercel.app/) 
+
+##### Quiz App
+  -Tech Used: Nextjs, Typescript,Node, Express, Mongodb, SCSS
+  -Link: [Weather App](https://quiz-eight-lake.vercel.app/) 
 
 
 
