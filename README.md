@@ -13,6 +13,7 @@
 ##### Quiz App
   -Tech Used: Nextjs, Typescript,Node, Express, Mongodb, SCSS
   -Link: [Quiz App](https://quiz-eight-lake.vercel.app/) 
+  
 
 
 
