@@ -5,6 +5,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuragchhetri) 
 
+<!-- 
 ## Projects:
 ##### Weather App
   -Tech Used: Nextjs, Typescript, SCSS
@@ -13,7 +14,7 @@
 ##### Quiz App
   -Tech Used: Nextjs, Typescript,Node, Express, Mongodb, SCSS
   -Link: [Quiz App](https://quiz-eight-lake.vercel.app/) 
-  
+   -->
 
 
 
