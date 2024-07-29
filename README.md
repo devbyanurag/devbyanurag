@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Next js<br>🌱 I’m currently learning Nextjs, React, Typescript<br>👯 I’m looking to collaborate on frontend projects<br>📫 How to reach me anuragchhetri49@gmail.com
+Portfolio Link: [Weather App](https://anurag10x.vercel.app/) 
+🔭 I’m currently working on React Developer.<br>🌱 I’m currently learning Nextjs, React, Typescript<br>👯 I’m looking to collaborate on frontend projects<br>📫 How to reach me anuragchhetri49@gmail.com
 
 
 ## 🌐 Socials:
