@@ -1,6 +1,10 @@
 # 💫 About Me:
-Portfolio: [Link](https://anurag10x.vercel.app/) <br>
-🔭 I’m currently working on React Developer.<br>🌱 I’m currently learning Nextjs, React, Typescript<br>👯 I’m looking to collaborate on frontend projects<br>📫 How to reach me anuragchhetri49@gmail.com
+Portfolio: [anurag10x.vercel.app](https://anurag10x.vercel.app/)  
+
+🔭 Currently working as an **AI & React Developer**  
+🌱 Learning and building with **Next.js, React, and TypeScript**  
+🤝 Open to collaborating on **frontend + AI-driven projects**  
+📫 Reach me at: **anuragchhetri49@gmail.com**  
 
 
 ## 🌐 Socials:
